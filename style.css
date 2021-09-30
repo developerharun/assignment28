@@ -1,0 +1,41 @@
+.navbar-brand img{
+    width: 80px;
+}
+.banner{
+    background-color: #f9f9ff;
+}
+.primary-color{
+    background-color: #8392fd;
+}
+.banner-text{
+    padding: 180px 0 0 0;
+}
+.about-text{
+    padding: 55px 0 0 0;
+}
+.pricing{
+    background-color: #f9f9ff;
+}
+.card span{
+    background-color: #f9f9ff;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-img{
+    position: relative;
+    top: -40px;
+}
+.contact{
+    background-color: #f9f9ff;
+}
+.btn-bg{
+    background-color: #17a2b8;
+}
+footer{
+    background-color: #04091e;
+}
